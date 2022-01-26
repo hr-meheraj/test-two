@@ -1,0 +1,18 @@
+((((How to beocme a successful web Developer?))))
+---To become a successful web Developer you should considered some of thing so that you can be successful in your programming carrier. Here I this article I will provide you some of the crutial topics that you might be happy to learning the whole process. So Let's get started .... 
+First Of All - Everybody also tell you know more about Networking , How does internet or computer work. But I also told you that Why you are know these topics, because you want to become a web developer and this this topic you are interested in. So it? So I thing you are know more about computer and internet networking, while If you interest in web development you provabbly know it. So At the first point I will say you 
+  --- Know more and Explore Websites because To become a web developer you have to think how does a website looks like and What will have and what elements are contains have in a website, Which types of website looks like interacting, Which technology make a website amazing, What is UI (User Interface)? 
+And you have read the full header of this article now start from here. 
+  --How to make a website structure and What is HTML?
+  -- what is the boilarplate of HTML?
+  How to structure of a website using HTML and How to create HTML file and structure of HTML necessary content, How to add webstie title, What is doctype and HTML basic Head tag , body tag , heading tags , paragraph tag, anchor nevigate tag, What is div , 
+  And you have know more about it within explore 2 days and you can make a structure of a website. So You will make a using HTML , and How to link another file of you html root file. 
+  (It's may take 3 days of exploring these dosegn of toopics) 
+
+Secondly : You have already know the basic of HTML and You have to exploring and Know more How to styling you structure HTML, How to style of a website, What is css and How to styling using css, How to select element of HTML using css, How to link of a css file with my html root file. So If you know the css some basic of topics that can you will build or styling of html tags
+  Most hirely you have to know 
+    What is padding,marign,font-size, font-family, font-weight,color, background-color, text-align, width, height, line-height, color pallate, list-type, text-decoration,disply, positioning, flex, grid, 
+  And you have already know the basic of CSS or you can watch a video crash course about HTML and CSS. 
+  It's make took ( 2 to 3 three days ) 
+  And Lastly HTML CSS combined you can make a website like portfolio and you will build this site with more be carefully and if you are not understand please feel free to search google and get know the answer of your question So You can find everything in Google if you search proper way and not get frastaction. So You have make a simple portfolio website look like a simple not professionally.
+  
